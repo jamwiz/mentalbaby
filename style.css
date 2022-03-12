@@ -1,0 +1,181 @@
+.block1{
+    background-color: #1f2937;
+    height:fit-content;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: center;
+    margin-bottom: 75px;
+}
+
+.logo-text{
+    margin-left: 200px;
+    font-size: 24px;
+    color: #f9faf8;
+    font-family:'Franklin Gothic Medium';
+}
+
+ul{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    margin-right: 200px;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 100px;
+
+}
+
+.description{
+    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap
+    
+}
+
+.header-content img{
+    width: 500px;
+    border: #3882f6;
+   
+}
+
+.main-text{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    font-family:'Franklin Gothic Medium';
+}
+
+.secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;
+    font-family:'Franklin Gothic Medium';
+}
+
+a{
+    font-size: 18px;
+    color: #e5e7eb; 
+    text-decoration: none; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+button{
+    font-family:'Arial Narrow', Arial, sans-serif;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: none;
+    border-radius: 8px;
+    font-size: larger;
+    width: 150px;
+    
+}
+
+.title{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+
+}
+
+.info{
+    max-width: 200px;
+    margin: 50px;
+}
+
+.donate-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    width: 1000px;
+    padding: 25px;
+    margin: 100px;
+    border-radius: 8px;
+}
+
+
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    font-family:'Franklin Gothic Medium';
+    margin-bottom: 25px;
+}
+
+
+
+.donate-title{
+    color: #f9faf8;
+    font-family:'Franklin Gothic Medium';
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.donate-text{
+    color: #f9faf8;
+    font-family:'Franklin Gothic Medium';
+}
+
+.block4 button{
+    background-color: #f9faf8;
+    color: #3882f6;
+    border-color: #3882f6;
+    font-family:'Franklin Gothic Medium';
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-family:'Franklin Gothic Medium';
+    height: 100px;
+}
+
+.apparel-content{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-top: 50px;
+}
+
+.block2{
+    padding: 50px;
+}
+
+.block4{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.block3{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    height: 200px;
+}
+
+
+.donate-text-area{
+    display: flex;
+    max-width: 500px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 50px;
+}
